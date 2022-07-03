@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "d:/Semester 2/Tugas Kuliah/Struktur Data (Praktikum)/Final Project",
-      "program": "d:/Semester 2/Tugas Kuliah/Struktur Data (Praktikum)/Final Project/build/Debug/outDebug",
+      "program": "d:/Semester 2/Tugas Kuliah/Struktur Data (Praktikum)/Final Project/fpsd5.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
