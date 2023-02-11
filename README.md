@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya Reksa Panduasa, junior developer yang berasal dari Blora, Jawa Tengah. Saya menjadikan project ini sebagai portfolio saya untuk mengikuti seleksi casprak Struktur Data. Pada project ini peran saya adalah menambahkan fitur searching, sorting, dan delete pada sistem linked list yang ada pada project tersebut.
+Saya Reksa Panduasa, junior developer yang berasal dari Blora, Jawa Tengah. Saya menjadikan project ini sebagai portfolio saya untuk mengikuti seleksi casprak Struktur Data. Pada project ini peran saya adalah menambahkan fitur searching, sorting, dan delete pada sistem linked list yang ada pada project tersebut. Project ini merupakan sebuah program playlist musik sederhana yang berfungsi untuk menambahkan lagu dari data lagu yang sudah ada untuk dimasukkan ke dalam playlist tersebut. Tetapi pada project ini hanya bisa memperlihatkan playlist yang sudah ditambahkan saja tidak dengan memainkan lagunya.
 
 
 ## 🌐 Socials:
